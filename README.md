@@ -1,8 +1,9 @@
 # Portfolio Website
 ## Languages
-### HTML
-### CSS
-### JS
-# For Animation
-## GSAP
-#### Images are there in Image folder
+- **HTML**
+- **CSS**
+- **JS**
+### For Animation
+- **GSAP**
+#### Font Family
+- **WOFF2**
